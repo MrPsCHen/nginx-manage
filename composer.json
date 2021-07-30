@@ -1,0 +1,19 @@
+{
+    "name": "doit/nginx-manage",
+    "description": "create nginx config",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Doit\\NginxManage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MrPsCHen",
+            "email": "cps_1993@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
